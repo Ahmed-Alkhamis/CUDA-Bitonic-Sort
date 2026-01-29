@@ -19,3 +19,29 @@ Key Features
 -Random generation of data.
 
 -Sorting Direction: Supports both Ascending and Descending orders.
+
+Interaction Example
+
+The program is interactive. Here is a sample workflow:
+
+Enter the number of elements: 10
+
+Would you like to enter the data mannually or randomly?
+
+1. mannually
+   
+2. randomly
+   
+Your choice: 2
+
+Would you like it to be in an ascending order or decending?
+
+0. ascending
+   
+1. decending
+
+Your choice: 0
+
+Original: 45 12 99 2 8 15 67 33 1 10
+
+Sorted:   1 2 8 10 12 15 33 45 67 99
